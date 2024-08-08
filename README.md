@@ -1,6 +1,6 @@
 # Select Content On Focus
 
-Sometimes may you want to select the contents of a TextBox when users click on the field or tab into it. This allows users to overwrite the contents of such a field without having to manually select the contents. This module implements this functionality. 
+Sometimes may you want to select the contents of a TextBox when users click on the field or tab into it. This allows users to overwrite the contents of such a field without having to manually select the contents. 
 
 ![](images/SampleAppView.gif)
 
