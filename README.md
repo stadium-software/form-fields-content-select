@@ -4,6 +4,9 @@ Sometimes may you want to select the contents of a TextBox when users click on t
 
 ![](images/SampleAppView.gif)
 
+## Version 
+1.0 - initial
+
 # Setup
 
 ## Global Script
